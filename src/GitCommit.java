@@ -7,6 +7,7 @@ public class GitCommit {
         //Removed extra print message
         System.out.println("Testing git commit");
         GitCommit.add();
+        System.out.println("Hello World from VSCode");
     }
 
     public static void add(){
